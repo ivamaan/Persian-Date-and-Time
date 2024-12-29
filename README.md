@@ -37,3 +37,13 @@ Features:
         Utilizes Persian fonts to improve readability and aesthetics.
 
 This application is designed for users who want to keep track of time in the Persian calendar while enjoying additional features like weather updates and audio cues.
+
+Support My Work
+
+If you enjoy my work and would like to support me, consider making a donation! Your contributions help keep this project alive and thriving. ✨🙏
+
+Donate via USDT on TRON:✨🙏
+
+        TXijXLmsQ6dqjh9tHkeSZCkvv53RrUmaVT
+
+Thank you for your support!

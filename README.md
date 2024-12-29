@@ -1,6 +1,6 @@
 # Persian-Date-and-Time
 
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.png)
 
 This project is a web application that displays the current date and time in the Persian (Jalali) calendar format. It includes various features to enhance user experience, such as weather information, geolocation services, and audio notifications.
 Features:
